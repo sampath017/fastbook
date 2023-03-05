@@ -1,4 +1,4 @@
-# Practical_Deep_Learning_For_Coders
+# fastbook
 Notes and tutorials from [fastai book](https://github.com/fastai/fastbook)
 
 ## Dependencies
