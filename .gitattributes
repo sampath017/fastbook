@@ -1,7 +1,2 @@
-data/oxford_iiit_pets/archives filter=lfs diff=lfs merge=lfs -text
-data/oxford_iiit_pets/cat.jpeg filter=lfs diff=lfs merge=lfs -text
-data/oxford_iiit_pets/dog.jpeg filter=lfs diff=lfs merge=lfs -text
 models/cat.pkl filter=lfs diff=lfs merge=lfs -text
 models/dog.pkl filter=lfs diff=lfs merge=lfs -text
-models/** filter=lfs diff=lfs merge=lfs -text
-models/* filter=lfs diff=lfs merge=lfs -text
